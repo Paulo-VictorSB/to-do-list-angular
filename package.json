@@ -1,5 +1,5 @@
 {
-  "name": "list-de-tarefas",
+  "name": "to-do-list-angular",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
